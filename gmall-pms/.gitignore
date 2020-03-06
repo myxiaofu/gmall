@@ -3,6 +3,14 @@ target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**
 !**/src/test/**
+.idea/
+target/
+mvnm*
+.mvn/
+HELP.md
+/src/test/
+.gitignore
+*.iml
 
 ### STS ###
 .apt_generated
